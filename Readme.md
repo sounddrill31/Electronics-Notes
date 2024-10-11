@@ -31,3 +31,18 @@ I will also attach a segment that explains these with a short answer, to underst
 1.8 [All about Capacitors](01-Basics/1.8-capacitors.md)
 
 1.9 [Simple Circuits using Capactiors and Resistors](01-Basics/1.9-simple.md)
+
+### Chapter 2 - More Basics
+2.1 Units and Scales
+2.2 Charge
+2.3 Current
+2.4 Voltage
+2.5 Power
+2.6 Voltage and Current Sources
+    - 2.6.1 Independent Sources
+    - 2.6.2 Dependent Sources
+2.7 Circuit
+2.8 Network
+2.9 Ohm's Law
+2.10 Power Absorption
+2.11 Conductance

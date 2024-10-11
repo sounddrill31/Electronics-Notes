@@ -14,21 +14,20 @@ I will also attach a segment that explains these with a short answer, to underst
 
 ## Topics
 ### Chapter 1 - Introduction/Basics
-1.1 - [What is Circuit?](Basics/1.1-Circuit.md)
+1.1 - [What is Circuit?](01-Basics/1.1-Circuit.md)
 
-1.2 - [Parts of a Circuit](Basics/1.2-Parts.md)
+1.2 - [Parts of a Circuit](01-Basics/1.2-Parts.md)
 
-1.3 - [KCL](Basics/1.3-KCL.md)
+1.3 - [KCL](01-Basics/1.3-KCL.md)
 
-1.4 - [KVL](Basics/1.4-KVL.md)
+1.4 - [KVL](01-Basics/1.4-KVL.md)
 
-1.5 [Thevenin's theorem](Basics/1.5-thevenin.md)
+1.5 [Thevenin's theorem](01-Basics/1.5-thevenin.md)
 
-1.6 [Norton's theorem](Basics/1.6-norton.md)
+1.6 [Norton's theorem](01-Basics/1.6-norton.md)
 
-1.7 [All about Resistors](Basics/1.7-resistors.md)
+1.7 [All about Resistors](01-Basics/1.7-resistors.md)
 
-1.8 [All about Capacitors](Basics/1.8-capacitors.md)
+1.8 [All about Capacitors](01-Basics/1.8-capacitors.md)
 
-1.9 [Simple Circuits using Capactiors and Resistors](Basics/1.9-simple.md)
-
+1.9 [Simple Circuits using Capactiors and Resistors](01-Basics/1.9-simple.md)
